@@ -5,6 +5,7 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+	"start":"node app.js"
   },
   "keywords": [
     "SIH"
@@ -22,5 +23,14 @@
     "passport": "^0.4.1",
     "passport-local": "^1.0.0",
     "passport-local-mongoose": "^6.0.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JINU98/Precision-Based-agriculture-and-Horticulture.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JINU98/Precision-Based-agriculture-and-Horticulture/issues"
+  },
+  "homepage": "https://github.com/JINU98/Precision-Based-agriculture-and-Horticulture#readme"
 }

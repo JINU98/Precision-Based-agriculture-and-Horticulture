@@ -266,6 +266,6 @@ function isloggedIn(req,res,next)
 
 
 
-app.listen(4000,function() {
+app.listen(process.env.PORT,function() {
    console.log("SERVER HAS STARTED");
 });
