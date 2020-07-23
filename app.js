@@ -264,7 +264,7 @@ function isloggedIn(req,res,next)
     res.redirect("/login");
 }
 
-
+var nexr='hello'
 
 app.listen(process.env.PORT,function() {
    console.log("SERVER HAS STARTED");
