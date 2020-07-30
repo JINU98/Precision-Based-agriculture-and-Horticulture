@@ -49,6 +49,8 @@ If you wish to deploy this project on heroku dont make any installion changes yo
 ## Authors
 
 * **[Jinendra Malekar](https://github.com/JINU98)**
+* **[Aishwarya Maurya](https://github.com/AishwaryaM12)**
+* **[Shivam Narware]()**
 
 ## Acknowledgments
 
